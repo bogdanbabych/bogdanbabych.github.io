@@ -1,6 +1,10 @@
 ## Professor of Translation Studies
 ### Institute for Translation and Interpreting, Heidelberg University
 
+![Image](/assets/img/Bogdan_Babych.jpg)
+
+Bogdan Babych is a Professor in Translation Studies at the Institute for Translation and Interpreting, Heidelberg University. He has a degree in Ukrainian Linguistics from the National Academy of Sciences, Ukraine and a PhD in Machine Translation from the University of Leeds, UK. He previously worked as a computational linguist at L&H Speech Products, Belgium, as a Research Fellow, Lecturer and Associate Professor in Translation Studies at the University of Leeds. Bogdan published articles on Ukrainian syntax, induction of translation equivalents and disambiguation tools for low-resourced languages, developing morphological resources for Slavonic languages, evaluating and improving the quality of Machine Translation with Information Extraction techniques. He co-organised HyTra workshop series on Hybrid Approaches to Translation, serving as a Chair for HyTra-4 at ACL-2015, and a Chair of its Programme Committee for other additions of the workshop. He was a Coordinator of the EU FP7 IAPP Marie Curie project HyghTra on developing a new hybrid MT architecture and participated in other UK and EU projects (ASSIST, IntelliText, ACCURAT, TTC).
+
 You can use the [editor on GitHub](https://github.com/bogdanbabych/bogdanbabych.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
