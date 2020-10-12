@@ -14,4 +14,6 @@ nav_order: 3
 
 [Lingenio GmbH](https://lingenio.de/en/), Language Technology company
 
+Ukrainian Catholic University, [Faculty of Applied Sciences](http://cs.ucu.edu.ua/en/): Projects on Natural Language Processing and development of Linguistic Resources for Ukrainian
+
 [BSNLP 2021](http://bsnlp.cs.helsinki.fi/index.html): The 8th Workshop on Balto-Slavic Natural Language Processing, April 2021: Member of the Organizing Committee
