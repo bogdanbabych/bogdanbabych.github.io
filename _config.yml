@@ -1,11 +1,10 @@
 title: Bogdan Babych, Universität Heidelberg
 logo: /assets/img/logo.png
 description: Institut für Übersetzen und Dolmetschen, Universität Heidelbergs, Plöck 57a, 69117 Heidelberg, tel ‭+49 176 50280381, email bogdan.babych@iued.uni-heidelberg.de
-docs_list_title: Pages
-docs:
-  - Title: Research
-    url: "/_data/research.md"
-  - Title: Teaching
-    url: "/_data/teaching.md"
 show_downloads: false
+<ul>
+   {% for item in site.data.pageslist.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
 theme: jekyll-theme-minimal

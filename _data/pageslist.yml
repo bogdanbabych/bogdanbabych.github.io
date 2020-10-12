@@ -1,0 +1,7 @@
+docs_list_title: Pages
+docs:
+  - Title: Research
+    url: "/_data/research.md"
+
+  - Title: Teaching
+    url: "/_data/teaching.md"
