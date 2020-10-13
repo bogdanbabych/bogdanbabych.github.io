@@ -19,6 +19,20 @@ Bogdan Babych is a Professor of Translation Studies at the [Institute for Transl
 
 [https://orcid.org/0000-0003-1872-1677](https://orcid.org/0000-0003-1872-1677)
 
+Twitter: [@b_babych](https://twitter.com/b_babych)
+
+Academia: [https://uni-heidelberg.academia.edu/BogdanBabych](https://uni-heidelberg.academia.edu/BogdanBabych)
+
+ACL Anthology: [https://www.aclweb.org/anthology/people/b/bogdan-babych/](https://www.aclweb.org/anthology/people/b/bogdan-babych/)
+
+ResearchGate: [https://www.researchgate.net/profile/Bogdan_Babych](https://www.researchgate.net/profile/Bogdan_Babych)
+
+Google [Scholar](https://scholar.google.co.uk/citations?user=tCCIynYAAAAJ&hl=en)
+
+LinkedIn: [https://www.linkedin.com/in/bogdan-babych-767a9219/](https://www.linkedin.com/in/bogdan-babych-767a9219/)
+
+Webpage @ Corpus Linguistics [website](http://corpus.leeds.ac.uk/bogdan/)
+
 
 
 
