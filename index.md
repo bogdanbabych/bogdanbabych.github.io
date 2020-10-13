@@ -19,5 +19,7 @@ Bogdan Babych is a Professor of Translation Studies at the [Institute for Transl
 
 [https://orcid.org/0000-0003-1872-1677](https://orcid.org/0000-0003-1872-1677)
 
+### Pageview statistics on ClustMaps
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y5Mn8ovEJ_-bNgGiMjV25n6CqBSHuX9xk8NbHaTTPCw&cl=ffffff&w=a">
 </script>
