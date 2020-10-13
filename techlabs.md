@@ -13,8 +13,9 @@ nav_order: 5
 
 ### Development of translation technologies and applications
 
-#### Current research and teaching experiments
+#### Research and teaching experiments
 
-1. **cgiBLEU**: On-line interface to BLEU / NIST evaluation toolkit: [cgiBLEU](http://corpus.leeds.ac.uk/corpuslabs/lab201801cgibleu/)
-2. **colloc4nlg** Experiments on using collocations for Natural Language Generation: [colloc4nlg](https://github.com/bogdanbabych/colloc4nlg); [web](http://corpus.leeds.ac.uk/corpuslabs/lab201810cnlg/colloc4nlg.html); [code](http://corpus.leeds.ac.uk/corpuslabs/lab201810cnlg/?C=M;O=A)
-3. **Kyiv2020** Kyiv Translation Summer School 2020 at “Igor Sikorsky Kyiv Polytechnic Institute” [presentation and materials](http://corpus.leeds.ac.uk/corpuslabs/lab2020Kyiv/)
+1. [**cgiBLEU**](http://corpus.leeds.ac.uk/corpuslabs/lab201801cgibleu/): On-line interface to BLEU / NIST evaluation toolkit: [cgiBLEU](http://corpus.leeds.ac.uk/corpuslabs/lab201801cgibleu/)
+2. [**colloc4nlg**](http://corpus.leeds.ac.uk/corpuslabs/lab201810cnlg/colloc4nlg.html) Experiments on using collocations for Natural Language Generation: [colloc4nlg](https://github.com/bogdanbabych/colloc4nlg); [web](http://corpus.leeds.ac.uk/corpuslabs/lab201810cnlg/colloc4nlg.html); [code](http://corpus.leeds.ac.uk/corpuslabs/lab201810cnlg/?C=M;O=A)
+3. [**Kyiv2020**](http://corpus.leeds.ac.uk/corpuslabs/lab2020Kyiv) Kyiv Translation Summer School 2020 at Igor Sikorsky Kyiv Polytechnic Institute [presentation and materials](http://corpus.leeds.ac.uk/corpuslabs/lab2020Kyiv/)
+4. [**smallSMT**](http://corpus.leeds.ac.uk/lingenio/) A prototype SMT system for [Lingenio's](https://lingenio.de/en/) [FlexNeuroTrans](https://lingenio.de/en/research/projects/FlexNeuroTrans/) project: [web interface](http://corpus.leeds.ac.uk/lingenio/) [web file interface](http://corpus.leeds.ac.uk/lingenio/indexfile.html)
