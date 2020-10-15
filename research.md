@@ -11,7 +11,7 @@ nav_order: 2
 
 [Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md)
 
-### Current research projects and publications
+### Current research projects and publications (complete list is at my [Corpus page](http://corpus.leeds.ac.uk/bogdan/publications/index.html))
 
 
 #### Unsupervised induction of morphosyntactic resources for low-resourced languages
