@@ -36,4 +36,4 @@ Babych, Bogdan & Sharoff, Serge. (2016, June). Ukrainian part-of-speech tagger f
 
 
 ##### Complete list of publications
-On the [Corpus page](http://corpus.leeds.ac.uk/bogdan/publications/index.html).
+See the [Corpus page](http://corpus.leeds.ac.uk/bogdan/publications/index.html).
