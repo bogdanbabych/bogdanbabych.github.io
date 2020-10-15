@@ -35,5 +35,5 @@ Babych, Bogdan (2016). Graphonological Levenshtein edit distance: Application fo
 Babych, Bogdan & Sharoff, Serge. (2016, June). Ukrainian part-of-speech tagger for hybrid MT: Rapid induction of morphological disambiguation resources from a closely related language. In Fifth Workshop on Hybrid Approaches to Translation (HyTra). Universitat Pompeu Fabra. [PDF](http://eprints.whiterose.ac.uk/100896/3/BabychExperiencing%20the%20digital%20world.pdf); [bibTeX](bibTeX.md#babych2016ukrainian)
 
 
-##### My complete list of publications
-- at the [Corpus page](http://corpus.leeds.ac.uk/bogdan/publications/index.html))
+##### Complete list of publications
+On the [Corpus page](http://corpus.leeds.ac.uk/bogdan/publications/index.html).
