@@ -2,8 +2,7 @@
 layout: default
 title: proj2007leverhulme
 nav_order: 8
-description: "Homepage"
-permalink: /
+
 ---
 
 ## Prof. Dr. Bogdan Babych
