@@ -8,7 +8,7 @@ nav_order: 11
 ### Professor of Translation Studies, Head of Department of Translation, Communication and Technology
 ### Institute for Translation and Interpreting, Heidelberg University
 
-[Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [de](https://bogdanbabych.github.io/de/de.html) [en](https://bogdanbabych.github.io/)
+[Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](/assets/img/flagDE2.png)](https://bogdanbabych.github.io/de/de.html) [![Image](/assets/img/flagUSUK.png)](https://bogdanbabych.github.io/)
 
 ![Image](/assets/img/Bogdan_Babych.jpg)
 
