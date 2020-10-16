@@ -8,7 +8,7 @@ nav_order: 11
 ### Professor of Translation Studies, Head of Department of Translation, Communication and Technology
 ### Institute for Translation and Interpreting, Heidelberg University
 
-[Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](en_l_flag.png)](/en_index.html) [![Image](de_l_flag.png)](/de_index.html)
+[Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](en_l_flag.png)](/index.html) [![Image](de_l_flag.png)](/de_index.html)
 
 
 ![Image](/assets/img/Bogdan_Babych.jpg)
@@ -33,8 +33,8 @@ nav_order: 11
 </script>
 
 
-
+-
 
 #### Webpage in other languages
 
-[![Image](en_l_flag.png)](/en_index.html) [en](index.md) [![Image](de_l_flag.png)](/de_index.html) [de](/de_index.md) ![Image](uk_l_flag.png) uk  
+[![Image](en_l_flag.png)](/index.html) [en](index.md) [![Image](de_l_flag.png)](/de_index.html) [de](/de_index.md) ![Image](uk_l_flag.png) uk  
