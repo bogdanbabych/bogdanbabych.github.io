@@ -33,7 +33,7 @@ Bogdan Babych is a Professor of Translation Studies at the [Institute for Transl
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y5Mn8ovEJ_-bNgGiMjV25n6CqBSHuX9xk8NbHaTTPCw&cl=ffffff&w=a">
 </script>
 
+####      
+#### Webpage in other languages
 
-### Languages
-
-![Image](en_l_flag.png)en ![Image](de_l_flag.png)[de](/de_index.md) ![Image](uk_l_flag.png)[uk](/uk_index.md)
+![Image](en_l_flag.png) en ![Image](de_l_flag.png) [de](/de_index.md) ![Image](uk_l_flag.png) [uk](/uk_index.md)
