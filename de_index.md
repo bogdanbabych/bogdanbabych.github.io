@@ -8,7 +8,8 @@ nav_order: 10
 ### Professor of Translation Studies, Head of Department of Translation, Communication and Technology
 ### Institute for Translation and Interpreting, Heidelberg University
 
-[Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](/assets/img/flagUSUK.png)](https://bogdanbabych.github.io/) [![Image](/assets/img/flagUA2.png)](https://bogdanbabych.github.io/uk/uk.html)
+[Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](en_l_flag.png)](/index.html) [![Image](uk_l_flag.png)](/uk_index.html)
+
 
 ![Image](/assets/img/Bogdan_Babych.jpg)
 
@@ -30,3 +31,9 @@ Bogdan Babych ist Professor für Translationswissenschaft am [Institut für Übe
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Y5Mn8ovEJ_-bNgGiMjV25n6CqBSHuX9xk8NbHaTTPCw&cl=ffffff&w=a">
 </script>
+
+
+
+#### Webpage in other languages
+
+[![Image](en_l_flag.png)](/index.html) [en](index.md) ![Image](de_l_flag.png) de [![Image](uk_l_flag.png)](/uk_index.html) [uk](/uk_index.md)
