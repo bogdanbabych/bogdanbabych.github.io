@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UK
+title: Ukrainian
 nav_order: 11
 ---
 

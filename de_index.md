@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DE
+title: Deutsch
 nav_order: 10
 ---
 
