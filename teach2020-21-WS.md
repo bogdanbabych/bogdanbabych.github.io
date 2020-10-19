@@ -161,6 +161,7 @@ W13: Advanced topics in Machine Translation
 W14: Case Studies: Principles of experiment design and requirements for assessment  
 
 *Syllabus: Topics*
+
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
   - 1 Discussion: Course introduction: Course expectations and participants’ background; Language pairs and translation direction of the participants; Syllabus, Reading list, Assessment structure, Article Presentations and Case Studies; Coursework, Overview of team projects, Software systems and cloud services for the course; using command line tools; Related translation technologies and tools not covered in the course; Links to self-training resources.  
   - 2 Practical: creating github repositories for the course, finding translation equivalents in existing parallel corpora on SketchEngine.  
@@ -193,17 +194,17 @@ Week06: 07 Dec – 13 Dec 2020: Introduction to script programming for translato
 Week07: 14 Dec – 20 Dec 2020: Advanced topics: terminology & corpus linguistics  
   - 1 Talk: Collocations and different association measures; Distributional similarity and word embeddings: automatically finding synonyms and related words from corpora; ontologies and termbanks  
   - 2 Practical: Pattern-based extraction of terminology from own corpora (Python project)  
-  - 3 Additional independent tasks | projects: comparing accuracy of terminology extraction by different tools; enhancing terminology extraction with association measures; automatically building related terminology lists with word embeddings  
+  - 3 Additional independent tasks \| projects: comparing accuracy of terminology extraction by different tools; enhancing terminology extraction with association measures; automatically building related terminology lists with word embeddings  
   - 4 Task for the Christmas Break: Prepare a presentation on one of the articles or chapters from assigned reading list (register your selected presentation on shared Google Drive by the end of Week07).  
 
 Christmas break: 21 Dec – 10 Jan (3 weeks, no classes)  
 
 Week08: 11 Jan – 17 Jan 2021. Assessment Part 1: Presentations of Articles  
-  - 1 Discussion: research articles | chapters presented in class  
+  - 1 Discussion: research articles \| chapters presented in class  
   - 2 Practical: Designing evaluation experiments and analyzing data  
 
 Week09: 18 Jan – 24 Jan 2021. Assessment Part 1: Presentations of Articles (contd.)  
-  - 1 Discussion: research articles | chapters presented in class  
+  - 1 Discussion: research articles \| chapters presented in class  
   - 2 Practical: Collecting and analyzing data beyond spreadsheets: Python  
 
 Week10: 25 Jan – 31 Jan 2021. Machine Translation: design and applications  
