@@ -191,8 +191,8 @@ Week05: 30 Nov – 06 Dec 2020: Corpus-based terminology
   - 2 Practical: Extracting monolingual and parallel terminology in the Sketch Engine; Evaluating and comparing quality of terminology extraction.  
 
 Week06: 07 Dec – 13 Dec 2020: Introduction to script programming for translators  
-  - 3 Talk: Introduction to script programming in Python. Reading and segmenting text files, finding word tokens, creating frequency lists, searching patterns with regular expressions.  
-  - 4 Practical: Setting up and running Python; Creating frequency lists from own monolingual corpora collected on the SketchEngine; finding frequent multiword expressions and part-of-speech patterns; comparing with the SketchEngine results.  
+  - 1 Talk: Introduction to script programming in Python. Reading and segmenting text files, finding word tokens, creating frequency lists, searching patterns with regular expressions.  
+  - 2 Practical: Setting up and running Python; Creating frequency lists from own monolingual corpora collected on the SketchEngine; finding frequent multiword expressions and part-of-speech patterns; comparing with the SketchEngine results.  
 
 Week07: 14 Dec – 20 Dec 2020: Advanced topics: terminology & corpus linguistics  
   - 1 Talk: Collocations and different association measures; Distributional similarity and word embeddings: automatically finding synonyms and related words from corpora; ontologies and termbanks  
