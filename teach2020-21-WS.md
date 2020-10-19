@@ -123,6 +123,7 @@ In the course the key theoretical concepts will be introduced during the first f
 
 <a name="LSF330838"></a>
 5 [**LSF 330838 Translation Technologies: MA main seminar, 1st or 3rd semester**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=330838&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Translations- und Kulturwissenschaft I und II: Translation Technologies, MA, 1st Sem **or** 3rd Sem, 6 Credit Points, Main seminar, Tue.	13:15 to 14:45
+* This on-line English language course is offered to students of Universität Heidelberg, partner universities of our [4EU+ Alliance](https://4euplus.eu/4EU-1.html) and partners of our Cooperative Network [Philotrans](https://www.uni-heidelberg.de/fakultaeten/neuphil/iask/sued/internationales/co_network_philotrans.html). See this [pdf document for the complete list of courses and registration details](https://www.uni-heidelberg.de/md/sued/internationales/ueberblick_philotrans_kurse_ws-2020-21.pdf)
 
 M.A. Übersetzungswissenschaft (Sprachkombination AB) \| M.A. Konferenzdolmetschen
 * Englisch
