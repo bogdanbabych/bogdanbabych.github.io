@@ -218,11 +218,11 @@ Week12: 08 Feb – 14 Feb 2021. Evaluation methods for Machine Translation
   - 1 Talk: Human methods of evaluating MT: standardized metrics (adequacy, fluency, informativeness) and task-based evaluation, designing human evaluation experiments; Automated MT evaluation: reference proximity and task-based evaluation methods, calibrating automated MT; Error analysis and error categorization schemes for MT; Corpus- and construction-based evaluation.  
   - 2 Practical: BLEU & NIST evaluation of translation quality, measuring correlation between human and automated evaluation  
 
-- Week13: 15 Feb – 21 Feb 2021. Advanced topics in Machine Translation  
-  - 1 Talk: Integration of MT into Computer Assisted Translation workflows, Interoperability with other technologies (TMs, Terminology management); potential future technological developments: Intelligent TMs with structure sub-segment matches, dynamic translation dictionaries, terminology injection and matching inflected and discontinuous terminological equivalents, related terminology networks, interactive corpus-based summaries; automated authoring support for technical writing; MT and low-resourced languages; Building your own MT systems from parallel corpora.  
-  - 2 Practical: Construction-based evaluation of MT.  
-  - 3 Additional independent tasks: automated task-based evaluation of MT systems: Named Entity recognition; Building own MT systems from a parallel corpus.  
+Week13: 15 Feb – 21 Feb 2021. Advanced topics in Machine Translation  
+  * 1 Talk: Integration of MT into Computer Assisted Translation workflows, Interoperability with other technologies (TMs, Terminology management); potential future technological developments: Intelligent TMs with structure sub-segment matches, dynamic translation dictionaries, terminology injection and matching inflected and discontinuous terminological equivalents, related terminology networks, interactive corpus-based summaries; automated authoring support for technical writing; MT and low-resourced languages; Building your own MT systems from parallel corpora.  
+  * 2 Practical: Construction-based evaluation of MT.  
+  * 3 Additional independent tasks: automated task-based evaluation of MT systems: Named Entity recognition; Building own MT systems from a parallel corpus.  
 
-- Week14: 22 Feb – 28 Feb 2021. Case studies: Requirements for assessment  
-  - 1 Talk: Principles of experiment design; Identifying research questions, material and methodology; Marking criteria for case studies; Structure of the case study: how to report the results of your experiments  
-  - 2 Discussion: brainstorming ideas for case studies; identifying research questions, material, methodology, evaluation and analysis; finding an optimal scope for the case study experiments.  
+Week14: 22 Feb – 28 Feb 2021. Case studies: Requirements for assessment  
+  * 1 Talk: Principles of experiment design; Identifying research questions, material and methodology; Marking criteria for case studies; Structure of the case study: how to report the results of your experiments  
+  * 2 Discussion: brainstorming ideas for case studies; identifying research questions, material, methodology, evaluation and analysis; finding an optimal scope for the case study experiments.  
