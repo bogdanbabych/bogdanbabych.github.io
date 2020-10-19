@@ -140,6 +140,8 @@ M.A. Übersetzungswissenschaft (Sprachkombination AB) \| M.A. Konferenzdolmetsch
 
 *Learning outcomes*: Students will learn foundations of modern corpus-based methods and translation automation tools, acquiring practical skills of building, using and evaluating resources and technologies for their own translation projects and also – within collaborative translation workflows. Students will be able to design experiments to systematically evaluate and compare the quality and usability of different technologies and applications; they will understand how they work. The students will be able to understand existing evaluation methodology for different technological components in the translation process and to design their own evaluation experiments. They will be able to orient themselves in modern literature on the topic and will create a practical project relevant for a specific translation scenario or industrial application.
 
+[*Course syllabus*](#LSF330838syllabus)
+
 *Short course structure*: topics to be covered in each week
 
 W01: Introduction  
@@ -160,6 +162,7 @@ W12: Evaluation methods for Machine Translation: human and automated evaluation 
 W13: Advanced topics in Machine Translation  
 W14: Case Studies: Principles of experiment design and requirements for assessment  
 
+<a name="LSF330838syllabus"></a>
 *Syllabus: Topics*
 
 Week01: 02 Nov – 08 Nov 2020: Course Introduction  
