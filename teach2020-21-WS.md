@@ -124,11 +124,11 @@ In the course the key theoretical concepts will be introduced during the first f
 <a name="LSF330838"></a>
 5. [**LSF330838**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=330838&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Translations- und Kulturwissenschaft I und II: Translation Technologies, MA, 1st Sem **or** 3rd Sem, 6 Credit Points, Main seminar, Tue.	13:15 to 14:45
 
-M.A. Übersetzungswissenschaft (Sprachkombination AB) | M.A. Konferenzdolmetschen
+M.A. Übersetzungswissenschaft (Sprachkombination AB) \| M.A. Konferenzdolmetschen
 * Englisch
-  * 3. Semester | 1. Semester
-    * Modul 3: Translationswissenschaft II | Modul 1: Translationswissenschaft I
-      * LSF#330838 Translations- und Kulturwissenschaft I (A | B | C -Sprache | (C1-, C2- oder C3-Sprache): Translation Technologies
+  * 3. Semester \| 1. Semester
+    * Modul 3: Translationswissenschaft II \| Modul 1: Translationswissenschaft I
+      * LSF#330838 Translations- und Kulturwissenschaft I (A \| B \| C -Sprache \| (C1-, C2- oder C3-Sprache): Translation Technologies
         Type of course: Main Seminar
         Tue.	13:15  – 14:45
         Creditpoints 6
@@ -136,93 +136,93 @@ M.A. Übersetzungswissenschaft (Sprachkombination AB) | M.A. Konferenzdolmetsche
 
 *Course description*:
 
-*Course Assessment*: Article | Chapter presentation (due Week08/09, up to 10 slides | 10 min, 20%); Case Study on usage / evaluation of translation technologies (due + 3 weeks after last class; up to 2500 words, 80%)
+*Course Assessment*: Article | Chapter presentation (due Week08/09, up to 10 slides \| 10 min, 20%); Case Study on usage / evaluation of translation technologies (due + 3 weeks after last class; up to 2500 words, 80%)
 
 *Learning outcomes*: Students will learn foundations of modern corpus-based methods and translation automation tools, acquiring practical skills of building, using and evaluating resources and technologies for their own translation projects and also – within collaborative translation workflows. Students will be able to design experiments to systematically evaluate and compare the quality and usability of different technologies and applications; they will understand how they work. The students will be able to understand existing evaluation methodology for different technological components in the translation process and to design their own evaluation experiments. They will be able to orient themselves in modern literature on the topic and will create a practical project relevant for a specific translation scenario or industrial application.
 
 *Short course structure*: topics to be covered in each week
 
-W01: Introduction
-W02: Resources for collaborative translation workflow
-W03: Alignment of TMs and creating parallel corpora
-W04: Equivalents in parallel & comparable corpora
-W05: Corpus-based terminology
-W06: Introduction to script programming for translators
-W07: Advanced topics in terminology and corpus linguistics
+W01: Introduction  
+W02: Resources for collaborative translation workflow  
+W03: Alignment of TMs and creating parallel corpora  
+W04: Equivalents in parallel & comparable corpora  
+W05: Corpus-based terminology  
+W06: Introduction to script programming for translators  
+W07: Advanced topics in terminology and corpus linguistics  
 
-Christmas break
+Christmas break  
 
-W08: Assessment Part 1: Presentations of Articles
-W09: Assessment Part 1: Presentations of Articles (contd.)
-W10: Machine Translation: principles of design and applications
-W11: Machine Translation: usage scenarios and Controlled Language
-W12: Evaluation methods for Machine Translation: human and automated evaluation of MT
-W13: Advanced topics in Machine Translation
-W14: Case Studies: Principles of experiment design and requirements for assessment
+W08: Assessment Part 1: Presentations of Articles  
+W09: Assessment Part 1: Presentations of Articles (contd.)  
+W10: Machine Translation: principles of design and applications  
+W11: Machine Translation: usage scenarios and Controlled Language  
+W12: Evaluation methods for Machine Translation: human and automated evaluation of MT  
+W13: Advanced topics in Machine Translation  
+W14: Case Studies: Principles of experiment design and requirements for assessment  
 
 *Syllabus: Topics*
-Week01: 02 Nov – 08 Nov 2020: Course Introduction
-    1 Discussion: Course introduction: Course expectations and participants’ background; Language pairs and translation direction of the participants; Syllabus, Reading list, Assessment structure, Article Presentations and Case Studies; Coursework, Overview of team projects, Software systems and cloud services for the course; using command line tools; Related translation technologies and tools not covered in the course; Links to self-training resources.
-    2 Practical: creating github repositories for the course, finding translation equivalents in existing parallel corpora on SketchEngine.
+Week01: 02 Nov – 08 Nov 2020: Course Introduction  
+    1 Discussion: Course introduction: Course expectations and participants’ background; Language pairs and translation direction of the participants; Syllabus, Reading list, Assessment structure, Article Presentations and Case Studies; Coursework, Overview of team projects, Software systems and cloud services for the course; using command line tools; Related translation technologies and tools not covered in the course; Links to self-training resources.  
+    2 Practical: creating github repositories for the course, finding translation equivalents in existing parallel corpora on SketchEngine.  
 
-Week02: 09 Nov – 15 Nov 2020: Resources for collaborative translation workflow
-    1 Discussion: Modern translation workflow: overview of roles, tools and methods for computer-assisted translation, Machine Translation (MT), creation of Translation Memories (TMs) & Termbanks, parallel and comparable corpora, quality assurance, review, terminology and resource management.
-    2 Homework: Finding parallel text for alignment
-    3 Practical: preparation of TMs for collaborative OmegaT projects: automated / interactive alignment of a text, sharing resources on github.
-    4 Additional materials: videos for translation project management in commercial TM systems
+Week02: 09 Nov – 15 Nov 2020: Resources for collaborative translation workflow  
+    1 Discussion: Modern translation workflow: overview of roles, tools and methods for computer-assisted translation, Machine Translation (MT), creation of Translation Memories (TMs) & Termbanks, parallel and comparable corpora, quality assurance, review, terminology and resource management.  
+    2 Homework: Finding parallel text for alignment  
+    3 Practical: preparation of TMs for collaborative OmegaT projects: automated / interactive alignment of a text, sharing resources on github.  
+    4 Additional materials: videos for translation project management in commercial TM systems  
 
-Week03: 16 Nov – 22 Nov 2020: Alignment of TMs & creating parallel corpora
-    1 Talk: Preparing translation memories and parallel corpora for translation projects; Using parallel corpora: building MT systems and TM resources; Methods and tools for automated alignment; evaluation and comparison of alignment accuracy
-    2 Homework: Finding & downloading parallel texts for alignment
-    3 Practical: Automated alignment of large parallel corpora; command line tools (hunalign), changing default settings; improving the results with dictionary-based alignment.
-    4 Additional independent task: Evaluating alignment accuracy.
+Week03: 16 Nov – 22 Nov 2020: Alignment of TMs & creating parallel corpora  
+    1 Talk: Preparing translation memories and parallel corpora for translation projects; Using parallel corpora: building MT systems and TM resources; Methods and tools for automated alignment; evaluation and comparison of alignment accuracy  
+    2 Homework: Finding & downloading parallel texts for alignment  
+    3 Practical: Automated alignment of large parallel corpora; command line tools (hunalign), changing default settings; improving the results with dictionary-based alignment.  
+    4 Additional independent task: Evaluating alignment accuracy.  
 
-Week04: 23 Nov – 29 Nov 2020: Equivalents in parallel & comparable corpora
-    1 Talk: Finding translation equivalents in parallel corpora; problem of “translationese”; Comparable corpora and strategies for identifying indirect translation equivalents; Key concepts and methods of corpus-based lexicography: concordances, collocations, word sketches.
-    2 Practical: uploading own parallel corpora in Sketch Engine; Creating own comparable corpora; Querying corpora & finding translation equivalents; Monolingual terminology extraction; Compiling bilingual dictionaries from corpora.
-    3 Additional independent task: Creating dictionary entries from corpora
+Week04: 23 Nov – 29 Nov 2020: Equivalents in parallel & comparable corpora  
+    1 Talk: Finding translation equivalents in parallel corpora; problem of “translationese”; Comparable corpora and strategies for identifying indirect translation equivalents; Key concepts and methods of corpus-based lexicography: concordances, collocations, word sketches.  
+    2 Practical: uploading own parallel corpora in Sketch Engine; Creating own comparable corpora; Querying corpora & finding translation equivalents; Monolingual terminology extraction; Compiling bilingual dictionaries from corpora.  
+    3 Additional independent task: Creating dictionary entries from corpora  
 
-Week05: 30 Nov – 06 Dec 2020: Corpus-based terminology
-    1 Talk: Concept of terminology, terms and ordinary language; Methods and tools for extracting terminology from corpora; Monolingual and parallel terminology extraction; Terminology management for translation projects: systems and tools.
-    2 Practical: Extracting monolingual and parallel terminology in the Sketch Engine; Evaluating and comparing quality of terminology extraction.
+Week05: 30 Nov – 06 Dec 2020: Corpus-based terminology  
+    1 Talk: Concept of terminology, terms and ordinary language; Methods and tools for extracting terminology from corpora; Monolingual and parallel terminology extraction; Terminology management for translation projects: systems and tools.  
+    2 Practical: Extracting monolingual and parallel terminology in the Sketch Engine; Evaluating and comparing quality of terminology extraction.  
 
-Week06: 07 Dec – 13 Dec 2020: Introduction to script programming for translators
-    3 Talk: Introduction to script programming in Python. Reading and segmenting text files, finding word tokens, creating frequency lists, searching patterns with regular expressions.
-    4 Practical: Setting up and running Python; Creating frequency lists from own monolingual corpora collected on the SketchEngine; finding frequent multiword expressions and part-of-speech patterns; comparing with the SketchEngine results.
+Week06: 07 Dec – 13 Dec 2020: Introduction to script programming for translators  
+    3 Talk: Introduction to script programming in Python. Reading and segmenting text files, finding word tokens, creating frequency lists, searching patterns with regular expressions.  
+    4 Practical: Setting up and running Python; Creating frequency lists from own monolingual corpora collected on the SketchEngine; finding frequent multiword expressions and part-of-speech patterns; comparing with the SketchEngine results.  
 
-Week07: 14 Dec – 20 Dec 2020: Advanced topics: terminology & corpus linguistics
-    1 Talk: Collocations and different association measures; Distributional similarity and word embeddings: automatically finding synonyms and related words from corpora; ontologies and termbanks
-    2 Practical: Pattern-based extraction of terminology from own corpora (Python project)
-    3 Additional independent tasks | projects: comparing accuracy of terminology extraction by different tools; enhancing terminology extraction with association measures; automatically building related terminology lists with word embeddings
-    4 Task for the Christmas Break: Prepare a presentation on one of the articles or chapters from assigned reading list (register your selected presentation on shared Google Drive by the end of Week07).
+Week07: 14 Dec – 20 Dec 2020: Advanced topics: terminology & corpus linguistics  
+    1 Talk: Collocations and different association measures; Distributional similarity and word embeddings: automatically finding synonyms and related words from corpora; ontologies and termbanks  
+    2 Practical: Pattern-based extraction of terminology from own corpora (Python project)  
+    3 Additional independent tasks | projects: comparing accuracy of terminology extraction by different tools; enhancing terminology extraction with association measures; automatically building related terminology lists with word embeddings  
+    4 Task for the Christmas Break: Prepare a presentation on one of the articles or chapters from assigned reading list (register your selected presentation on shared Google Drive by the end of Week07).  
 
-Christmas break: 21 Dec – 10 Jan (3 weeks, no classes)
+Christmas break: 21 Dec – 10 Jan (3 weeks, no classes)  
 
-Week08: 11 Jan – 17 Jan 2021. Assessment Part 1: Presentations of Articles
-    1 Discussion: research articles | chapters presented in class
-    2 Practical: Designing evaluation experiments and analyzing data
+Week08: 11 Jan – 17 Jan 2021. Assessment Part 1: Presentations of Articles  
+    1 Discussion: research articles | chapters presented in class  
+    2 Practical: Designing evaluation experiments and analyzing data  
 
-Week09: 18 Jan – 24 Jan 2021. Assessment Part 1: Presentations of Articles (contd.)
-    1 Discussion: research articles | chapters presented in class
-    2 Practical: Collecting and analyzing data beyond spreadsheets: Python
+Week09: 18 Jan – 24 Jan 2021. Assessment Part 1: Presentations of Articles (contd.)  
+    1 Discussion: research articles | chapters presented in class  
+    2 Practical: Collecting and analyzing data beyond spreadsheets: Python  
 
-Week10: 25 Jan – 31 Jan 2021. Machine Translation: design and applications
-    1 Talk: General design principles of MT systems: Neural (recurrent neural networks; attention-based ‘transformer’ architecture), Statistical (word and phrase-based), Rule-based (direct, transfer, interlingua). Hybrid methods and multi-engine MT; Translation quality and error types for different MT architectures
-    2 Practical: Comparative evaluation of different MT systems; designing linguistic test suites for checking the coverage; corpus-based error analysis; designing evaluation questionnaires
+Week10: 25 Jan – 31 Jan 2021. Machine Translation: design and applications  
+    1 Talk: General design principles of MT systems: Neural (recurrent neural networks; attention-based ‘transformer’ architecture), Statistical (word and phrase-based), Rule-based (direct, transfer, interlingua). Hybrid methods and multi-engine MT; Translation quality and error types for different MT architectures  
+    2 Practical: Comparative evaluation of different MT systems; designing linguistic test suites for checking the coverage; corpus-based error analysis; designing evaluation questionnaires  
 
-Week11: 01 Feb – 07 Feb 2021. Machine Translation: usage scenarios
-    1 Talk: MT usage scenarios & fitness for purpose: Translation for publication, Post-editing scenario, Translation for comprehension and communication; Sublanguage, Controlled language for technical domains: AECMA; MT Translatability; MT between closely-related languages
-    2 Practical: designing and evaluating the impact of the English Controlled Language
+Week11: 01 Feb – 07 Feb 2021. Machine Translation: usage scenarios  
+    1 Talk: MT usage scenarios & fitness for purpose: Translation for publication, Post-editing scenario, Translation for comprehension and communication; Sublanguage, Controlled language for technical domains: AECMA; MT Translatability; MT between closely-related languages  
+    2 Practical: designing and evaluating the impact of the English Controlled Language  
 
-Week12: 08 Feb – 14 Feb 2021. Evaluation methods for Machine Translation
-    1 Talk: Human methods of evaluating MT: standardized metrics (adequacy, fluency, informativeness) and task-based evaluation, designing human evaluation experiments; Automated MT evaluation: reference proximity and task-based evaluation methods, calibrating automated MT; Error analysis and error categorization schemes for MT; Corpus- and construction-based evaluation.
-    2 Practical: BLEU & NIST evaluation of translation quality, measuring correlation between human and automated evaluation
+Week12: 08 Feb – 14 Feb 2021. Evaluation methods for Machine Translation  
+    1 Talk: Human methods of evaluating MT: standardized metrics (adequacy, fluency, informativeness) and task-based evaluation, designing human evaluation experiments; Automated MT evaluation: reference proximity and task-based evaluation methods, calibrating automated MT; Error analysis and error categorization schemes for MT; Corpus- and construction-based evaluation.  
+    2 Practical: BLEU & NIST evaluation of translation quality, measuring correlation between human and automated evaluation  
 
-Week13: 15 Feb – 21 Feb 2021. Advanced topics in Machine Translation
-    1 Talk: Integration of MT into Computer Assisted Translation workflows, Interoperability with other technologies (TMs, Terminology management); potential future technological developments: Intelligent TMs with structure sub-segment matches, dynamic translation dictionaries, terminology injection and matching inflected and discontinuous terminological equivalents, related terminology networks, interactive corpus-based summaries; automated authoring support for technical writing; MT and low-resourced languages; Building your own MT systems from parallel corpora.
-    2 Practical: Construction-based evaluation of MT.
-    3 Additional independent tasks: automated task-based evaluation of MT systems: Named Entity recognition; Building own MT systems from a parallel corpus.
+Week13: 15 Feb – 21 Feb 2021. Advanced topics in Machine Translation  
+    1 Talk: Integration of MT into Computer Assisted Translation workflows, Interoperability with other technologies (TMs, Terminology management); potential future technological developments: Intelligent TMs with structure sub-segment matches, dynamic translation dictionaries, terminology injection and matching inflected and discontinuous terminological equivalents, related terminology networks, interactive corpus-based summaries; automated authoring support for technical writing; MT and low-resourced languages; Building your own MT systems from parallel corpora.  
+    2 Practical: Construction-based evaluation of MT.  
+    3 Additional independent tasks: automated task-based evaluation of MT systems: Named Entity recognition; Building own MT systems from a parallel corpus.  
 
-Week14: 22 Feb – 28 Feb 2021. Case studies: Requirements for assessment
-    1 Talk: Principles of experiment design; Identifying research questions, material and methodology; Marking criteria for case studies; Structure of the case study: how to report the results of your experiments
-    2 Discussion: brainstorming ideas for case studies; identifying research questions, material, methodology, evaluation and analysis; finding an optimal scope for the case study experiments.
+Week14: 22 Feb – 28 Feb 2021. Case studies: Requirements for assessment  
+    1 Talk: Principles of experiment design; Identifying research questions, material and methodology; Marking criteria for case studies; Structure of the case study: how to report the results of your experiments  
+    2 Discussion: brainstorming ideas for case studies; identifying research questions, material, methodology, evaluation and analysis; finding an optimal scope for the case study experiments.  
