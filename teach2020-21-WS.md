@@ -15,7 +15,7 @@ nav_order: 31
 I teach courses on translation technologies, translation theory and methodology of research in Translation Studies:
 
 <a name="0945MUE8202"></a>
-1 [**0945MUE8202**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323377&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Forschungskolloquium MA, 3rd Sem, 3 Credit Points, Research colloquium, Mon 10:15 to 11:45
+1 [**0945MUE8202 Research colloquium: research for MA Thesis, MA colloquium, 3rd semester**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323377&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Forschungskolloquium MA, 3rd Sem, 3 Credit Points, Research colloquium, Mon 10:15 to 11:45
 
 M.A. Übersetzungswissenschaft (Sprachkombination AB |  ACCC | ABC)
 * Englisch
@@ -41,7 +41,7 @@ The research colloquium is aimed at supporting students’ preparation of their 
 
 
 <a name="0945BUT02202"></a>
-2 [**0945BUT02202**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323831&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Medientechnische Grundlagen der Fachübersetzung, BA, 1st Sem, 2 Credit Points, Practice class, Mon.	12:15 to 13:45
+2 [**0945BUT02202 Technical foundations of professional translation: BA practical, 1st semester**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323831&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Medientechnische Grundlagen der Fachübersetzung, BA, 1st Sem, 2 Credit Points, Practice class, Mon.	12:15 to 13:45
 
 B.A. Translation Studies for Information Technologies (Studienanteile Heidelberg)
 * 1. Semester
@@ -67,7 +67,7 @@ The course will introduce core technological components for the modern translati
 
 
 <a name="0945MUE1202"></a>
-3 [**0945MUE1202**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323890&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Translations- und Kulturwissenschaft I, MA, 1st Sem, 6 Credit Points, Main Seminar, Mon.	14:15 to 15:45
+3 [**0945MUE1202 Translation and Culture - Ideology, evaluative language and intervention in translation: MA main seminar, 1st semester**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323890&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Translations- und Kulturwissenschaft I, MA, 1st Sem, 6 Credit Points, Main Seminar, Mon.	14:15 to 15:45
 
 M.A. Übersetzungswissenschaft (Sprachkombination ACCC)
 * Englisch
@@ -94,7 +94,7 @@ In the course we will discuss contemporary theories of evaluation in translation
 
 
 <a name="0945BUE36202"></a>
-4 [**0945BUE36202**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=320587&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Übersetzungswissenschaft, BA, 5th Sem, 5 Credit Points, Main seminar, Tue.	10:15 to 11:45
+4 [**0945BUE36202 Advanced topics in translation studies - Translation quality, critical evaluation and justification of translation decisions: BA main seminar, 5th semester**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=320587&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Übersetzungswissenschaft, BA, 5th Sem, 5 Credit Points, Main seminar, Tue.	10:15 to 11:45
 
 B.A. Übersetzungswissenschaft
 * Englisch
@@ -122,7 +122,7 @@ In the course the key theoretical concepts will be introduced during the first f
 
 
 <a name="LSF330838"></a>
-5 [**LSF330838**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=330838&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Translations- und Kulturwissenschaft I und II: Translation Technologies, MA, 1st Sem **or** 3rd Sem, 6 Credit Points, Main seminar, Tue.	13:15 to 14:45
+5 [**LSF 330838 Translation Technologies: MA main seminar, 1st or 3rd semester**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=330838&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Translations- und Kulturwissenschaft I und II: Translation Technologies, MA, 1st Sem **or** 3rd Sem, 6 Credit Points, Main seminar, Tue.	13:15 to 14:45
 
 M.A. Übersetzungswissenschaft (Sprachkombination AB) \| M.A. Konferenzdolmetschen
 * Englisch
@@ -136,11 +136,11 @@ M.A. Übersetzungswissenschaft (Sprachkombination AB) \| M.A. Konferenzdolmetsch
 
 *Course description*:
 
+[*Course syllabus*](#LSF330838syllabus)
+
 *Course Assessment*: Article \| Chapter presentation (due Week08/09, up to 10 slides \| 10 min, 20%); Case Study on usage / evaluation of translation technologies (due + 3 weeks after last class; up to 2500 words, 80%)
 
 *Learning outcomes*: Students will learn foundations of modern corpus-based methods and translation automation tools, acquiring practical skills of building, using and evaluating resources and technologies for their own translation projects and also – within collaborative translation workflows. Students will be able to design experiments to systematically evaluate and compare the quality and usability of different technologies and applications; they will understand how they work. The students will be able to understand existing evaluation methodology for different technological components in the translation process and to design their own evaluation experiments. They will be able to orient themselves in modern literature on the topic and will create a practical project relevant for a specific translation scenario or industrial application.
-
-[*Course syllabus*](#LSF330838syllabus)
 
 *Short course structure*: topics to be covered in each week
 
