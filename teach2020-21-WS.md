@@ -15,7 +15,7 @@ nav_order: 31
 I teach courses on translation technologies, translation theory and methodology of research in Translation Studies:
 
 <a name="0945MUE8202"></a>
-1. [**0945MUE8202**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323377&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Forschungskolloquium MA, 3rd Sem, 3 Credit Points, Research colloquium, Mon 10:15 to 11:45
+1 [**0945MUE8202**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323377&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Forschungskolloquium MA, 3rd Sem, 3 Credit Points, Research colloquium, Mon 10:15 to 11:45
 
 M.A. Übersetzungswissenschaft (Sprachkombination AB |  ACCC | ABC)
 * Englisch
@@ -41,7 +41,7 @@ The research colloquium is aimed at supporting students’ preparation of their 
 
 
 <a name="0945BUT02202"></a>
-2. [**0945BUT02202**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323831&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Medientechnische Grundlagen der Fachübersetzung, BA, 1st Sem, 2 Credit Points, Practice class, Mon.	12:15 to 13:45
+2 [**0945BUT02202**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323831&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Medientechnische Grundlagen der Fachübersetzung, BA, 1st Sem, 2 Credit Points, Practice class, Mon.	12:15 to 13:45
 
 B.A. Translation Studies for Information Technologies (Studienanteile Heidelberg)
 * 1. Semester
@@ -67,7 +67,7 @@ The course will introduce core technological components for the modern translati
 
 
 <a name="0945MUE1202"></a>
-3. [**0945MUE1202**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323890&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Translations- und Kulturwissenschaft I, MA, 1st Sem, 6 Credit Points, Main Seminar, Mon.	14:15 to 15:45
+3 [**0945MUE1202**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323890&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Translations- und Kulturwissenschaft I, MA, 1st Sem, 6 Credit Points, Main Seminar, Mon.	14:15 to 15:45
 
 M.A. Übersetzungswissenschaft (Sprachkombination ACCC)
 * Englisch
