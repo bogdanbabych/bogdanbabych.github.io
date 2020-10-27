@@ -129,7 +129,7 @@ M.A. Übersetzungswissenschaft (Sprachkombination AB) \| M.A. Konferenzdolmetsch
 * Englisch
   * 3rd Semester \| 1st Semester
     * Modul 3: Translationswissenschaft II \| Modul 1: Translationswissenschaft I
-      * LSF#330838 Translations- und Kulturwissenschaft I (A \| B \| C -Sprache \| (C1-, C2- oder C3-Sprache): Translation Technologies
+      * LSF#330838 Translations- und Kulturwissenschaft I (A \| B \| C -Sprache) \| (C1-, C2- oder C3-Sprache): Translation Technologies
         Type of course: Main Seminar
         Tue.	13:15  – 14:45
         Creditpoints 6
