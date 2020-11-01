@@ -10,9 +10,9 @@ nav_order: 3
 
 [Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](/de_index.html) [![Image](uk_l_flag.png)](/uk_index.html)
 
-### [Courses](https://bogdanbabych.github.io/courses/)
+### Courses
 
-I teach [courses](https://bogdanbabych.github.io/courses/) on translation technologies, translation theory and methodology of research in Translation Studies:
+I teach courses on translation technologies, translation theory and methodology of research in Translation Studies:
 
 1. [**0945MUE8202 Research colloquium: research for MA Thesis, MA colloquium, 3rd semester**](https://lsf.uni-heidelberg.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=323377&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung) Forschungskolloquium MA, 3rd Sem, 3 Credit Points, Research colloquium, Mon 10:15 to 11:45;
 - [*Course description*](teach2020-21-WS.md#0945MUE8202)
