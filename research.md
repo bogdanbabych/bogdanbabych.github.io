@@ -14,7 +14,7 @@ nav_order: 2
 ### Current research projects and publications
 
 #### Induction of resources for low-resourced languages
-Jakub Piskorski, Bogdan Babych, Zara Kancheva, Olga Kanishcheva, Maria Lebedeva, Michał Marcińczuk, Preslav Nakov, Petya Osenova, Lidia Pivovarova, Senja Pollak, Pavel Přibáň, Ivaylo Radev, Marko Robnik-Šikonja, Vasyl Starko, Josef Steinberger, Roman Yangarber. 2021. Slav-NER: the 3rd Cross-lingual Challenge on Recognition, Normalization, Classification, and Linking of Named Entities across Slavic languages. In Proceedings of the 8th Workshop on Balto-Slavic Natural Language Processing. European Association for Computational Linguistics. [bibTeX](bibTeX.md#bsnlp2021stIntroPaperPiskorskiEtAl)
+Jakub Piskorski, Bogdan Babych, Zara Kancheva, Olga Kanishcheva, Maria Lebedeva, Michał Marcińczuk, Preslav Nakov, Petya Osenova, Lidia Pivovarova, Senja Pollak, Pavel Přibáň, Ivaylo Radev, Marko Robnik-Šikonja, Vasyl Starko, Josef Steinberger, Roman Yangarber (2021). Slav-NER: the 3rd Cross-lingual Challenge on Recognition, Normalization, Classification, and Linking of Named Entities across Slavic languages. In Proceedings of the 8th Workshop on Balto-Slavic Natural Language Processing. European Association for Computational Linguistics. [bibTeX](bibTeX.md#bsnlp2021stIntroPaperPiskorskiEtAl)
 
 Babych, Bogdan (2019, August). Unsupervised Induction of Ukrainian Morphological Paradigms for the New Lexicon: Extending Coverage for Named Entities and Neologisms Using Inflection Tables and Unannotated Corpora. In Proceedings of the 7th Workshop on Balto-Slavic Natural Language Processing at ACL-2019 (pp. 1-11). [PDF](https://www.aclweb.org/anthology/W19-3701.pdf); [bibTeX](bibTeX.md#babych2019unsupervised)
 
