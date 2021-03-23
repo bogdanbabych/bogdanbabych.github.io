@@ -1,3 +1,11 @@
+<a name="bsnlp2021stIntroPaperPiskorskiEtAl"></a>
+@inproceedings{bsnlp2021stIntroPaperPiskorskiEtAl,
+	author={Jakub Piskorski and Bogdan Babych and Zara Kancheva and Olga Kanishcheva and Maria Lebedeva and Michał Marcińczuk and Preslav Nakov and Petya Osenova and Lidia Pivovarova and Senja Pollak and Pavel Přibáň and Ivaylo Radev and Marko Robnik-Šikonja and Vasyl Starko and Josef Steinberger and Roman Yangarber },
+	title={Slav-NER: the 3rd Cross-lingual Challenge on Recognition, Normalization, Classification, and Linking of Named Entities across Slavic languages },
+	booktitle={Proceedings of the 8th Workshop on Balto-Slavic Natural Language Processing },
+	year={2021 },
+	organization={European Association for Computational Linguistics }
+}
 
 <a name="babych2019unsupervised"></a>
 @inproceedings{babych2019unsupervised,

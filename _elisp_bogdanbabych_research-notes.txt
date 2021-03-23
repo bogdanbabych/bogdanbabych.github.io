@@ -1,0 +1,715 @@
+Platforms
+
+	https://heicloud.uni-heidelberg.de/dienste/datenspeicher
+	https://heicloud.uni-heidelberg.de/heiCLOUD
+	https://heicloud.uni-heidelberg.de/Projektregistrierung
+	https://heicloud.uni-heidelberg.de/faq/vms
+	https://heicloud.uni-heidelberg.de/faq/billing
+	https://heicloud.uni-heidelberg.de/
+	https://heicloud.uni-heidelberg.de/en/heiCLOUD
+	https://heicloud.uni-heidelberg.de/en/node/54
+	https://heicloud.uni-heidelberg.de/en/Status
+	https://heicloud.uni-heidelberg.de/en/registration
+	https://heicloud.uni-heidelberg.de/en/services/backup
+	https://heicloud.uni-heidelberg.de/en/services/images
+	https://heicloud.uni-heidelberg.de/en/services/images
+
+
+
+
+
+	https://bigml.com/pricing#subscriptions
+	https://bigml.com/
+
+
+	http://okapiframework.org/
+
+	Recommended Systems for Machine Learning / AI TensorFlow
+	https://www.pugetsystems.com/recommended/Recommended-Systems-for-Machine-Learning-AI-TensorFlow-174
+
+	UDPipe Versions
+	https://ufal.mff.cuni.cz/udpipe
+
+
+[logo fonts]
+	https://www.fontspace.com/category/logo?p=25
+
+
+Journal
+	Open access journal TC3 - Translation: Computation, Corpora, Cognition
+	https://www.corpus4u.org/threads/8101/
+
+	TC3 becomes TMNLP!
+	https://www.t-c3.org/
+	http://ezb.uni-regensburg.de/ezeit/?2644260&bibid=ubhe
+	https://katalog.ub.uni-heidelberg.de/cgi-bin/titel.cgi?katkey=67395694&sess=eff8cfd6af371efd460284f3454c1072&art=f&kat1=freitext&kat2=ti&kat3=au&op1=AND&op2=AND&var1=translation%20and%20cognition&var2=&var3=
+
+
+	Українська мова
+	https://ukrmova.iul-nasu.org.ua/vypusky-zhurnalu/2018-2/zhurnal-ukrayinska-mova-4-68-2018.html
+
+
+
+
+
+Societies
+	European Society for Translation Studies
+	https://est-translationstudies.org/2019/est-announces-the-winner-of-its-2019-young-scholar-prize/
+
+
+People
+	Oliver Czulo, Prof. Dr.
+	https://home.uni-leipzig.de/czulo/
+
+
+
+
+Materials for Ukrainian corpus alignment:
+
+
+	http://mildic.com/ua/pages/9#popup_agree
+
+
+
+	https://www.google.com/search?biw=1899&bih=984&sxsrf=ALeKk00Yui9SX--AxrraZe7eBKzuEKbjlg%3A1604568868643&ei=JMejX7zbJo2ysAf0q5hQ&q=kenneth+geers+cyberwar+ukraine+pdf&oq=kenneth+geers+cyberwar+ukraine+pdf&gs_lcp=CgZwc3ktYWIQAzoKCC4QyQMQJxCTAjoGCAAQFhAeOgkIABDJAxAWEB46CAghEBYQHRAeOgUIIRCgAToECCEQFToHCCEQChCgAVDYLVj_kAFghZIBaAVwAHgBgAHxAYgB1RCSAQYyMy4xLjGYAQCgAQGqAQdnd3Mtd2l6wAEB&sclient=psy-ab&ved=0ahUKEwi8_brrjOvsAhUNGewKHfQVBgoQ4dUDCA0&uact=5
+
+		https://ccdcoe.org/uploads/2018/10/CyberWarinPerspective_full_book.pdf
+		http://mildic.com/uploads/p_103_26254400.pdf
+
+
+
+		https://www.google.com/search?sxsrf=ALeKk02OXlo5aZGCoNTVddXEL_cRKnbNBg:1604568866688&q=kenneth+geers&spell=1&sa=X&ved=2ahUKEwjY2MPqjOvsAhWnsaQKHfGWBAcQBSgAegQICRAq&biw=1899&bih=984
+
+
+		> Ukrainian parallel corpora in
+		elisp > corpus-download
+			workspace
+
+
+Ukrainian corpus
+	http://uacorpus.org/
+
+	Creation of a multilingual aligned corpus with
+		Ukrainian as the target language and its exploitation
+		Natalia Grabar1
+		and Thierry Hamon2
+		http://natalia.grabar.free.fr/publications/grabar-COLINS2017.pdf
+
+
+	Mil corpus
+		https://armyinform.com.ua/2020/10/za-kozhnu-lyudynu-v-sso-treba-borotysya/?fbclid=IwAR0MpGtLFJl6O-oRQNTTPX8jfw1z3dFnSrW2N-jylPThCjBwFnUDXHAgfA8
+
+
+
+
+	Г.М. Дидик-Меуш
+		Інститут українознавства ім. І. Крип’якевича НАН України, м. Львів
+		СПОЛУЧУВАНІСТЬ І СПРОБА
+		ЇЇ ЛЕКСИКОГРАФІЧНОГО ОПИСУ:
+		ІСТОРИЧНИЙ КОМБІНАТОРНИЙ
+		СЛОВНИК УКРАЇНСЬКОЇ МОВИ
+
+		https://iul-nasu.org.ua/pdf/ukrmova/2_19/8.pdf
+
+		https://ukrmova.iul-nasu.org.ua/vypusky-zhurnalu/2019-2/zhurnal-ukrayinska-mova-2-70-2019.html
+
+		https://movoznavstvo.org.ua/retsenziji-ta-anotatsiji.html
+
+
+
+
+
+
+
+
+Corpus with Georgian texts
+	https://www.nato.int/cps/en/natohq/official_texts_156627.htm?selectedLocale=ka
+	https://www.nato.int/cps/en/natohq/official_texts_156627.htm?selectedLocale=ru
+	https://www.nato.int/cps/en/natohq/official_texts_156627.htm?selectedLocale=fr
+	https://www.nato.int/cps/en/natohq/official_texts_156627.htm?selectedLocale=uk
+	https://www.nato.int/cps/en/natohq/official_texts_156627.htm?selectedLocale=en
+	https://www.nato.int/cps/en/natohq/official_texts.htm
+
+	https://www.nato.int/cps/en/natohq/publications.htm
+
+
+
+	uniparser-grammar-eastern-armenian
+		https://bitbucket.org/timarkh/uniparser-grammar-eastern-armenian/src/master/
+		https://bitbucket.org/timarkh/uniparser-grammar-eastern-armenian/src/master/paradigms.txt
+
+Platforms
+	https://aws.amazon.com/lambda/?did=ft_card&trk=ft_card
+	AWS Lambda
+		Run code without thinking about servers. Pay only for the compute time you consume.
+		AWS Free Tier
+		Gain free, hands-on experience with the AWS platform, products, and services
+
+
+Proposals - grants
+	Science for Peace and Security (SPS) Programme
+
+	https://www.nato.int/cps/en/natolive/88001.htm
+	https://www.nato.int/cps/en/natolive/85291.htm
+	https://www.nato.int/cps/en/natolive/79910.htm
+	https://www.nato.int/cps/en/natolive/85287.htm
+
+
+
+	AHRC - DFG
+	https://www.dfg.de/en/research_funding/international_cooperation/international_funding/funding_opportunities/ahrc/index.html
+	https://www.dfg.de/foerderung/info_wissenschaft/2019/info_wissenschaft_19_72/index.html
+	The detailed call for proposals is planned for 19th November 2020 with a deadline on 24th February 2021.
+
+
+	DFG - Ratio
+	https://www.dfg.de/foerderung/info_wissenschaft/2020/info_wissenschaft_20_07/
+	https://www.dfg.de/en/research_funding/announcements_proposals/index.jsp
+
+	Individual Research Grants
+	https://www.dfg.de/en/research_funding/programmes/individual/research_grants/index.html
+
+	ERC ANNOUNCES 34 NEW SYNERGY GRANTS
+	https://erc.europa.eu/news/erc-2020-synergy-grants-results
+	https://www.researchprofessional.com/0/rr/news/europe/horizon-2020/2020/11/Most-wins-for-Germany-in-latest-round-of-ERC-Synergy-Grants.html
+
+	UDPipe Ukrainian: Morphosyntactic Analysis of Raw Text
+	CUNI_UDPipe-uk
+	https://live.european-language-grid.eu/catalogue/#/resource/service/tool/467
+
+
+Collaboration
+
+	Kurt
+		https://www.cl.uni-heidelberg.de/courses/ws20/semanticparsing/
+
+
+	Giacomini
+		https://www.uni-hildesheim.de/neuigkeiten/habilitation-in-sprachtechnologie-wissenschaftlerin-laura-giacomini/
+
+
+	Кафедра теорії, практики та перекладу німецької мови
+		https://ktppnm.kpi.ua/node/163
+
+
+	KAPANADSE, OLEG
+		Universität Potsdam
+		okapanadze@uni-potsdam.de
+		Oleg Kapanadze
+		http://humboldt-kolleg.com/2017/speakers/speakersinfo/30
+
+
+
+	Cognitive Aspects of the Lexicon
+		https://sites.google.com/site/cogalex2016/home
+		https://sites.google.com/site/cogalex2016/schedule/program
+		http://pageperso.lif.univ-mrs.fr/~michael.zock/#CogALex
+		http://pageperso.lif.univ-mrs.fr/~michael.zock/
+
+
+	Vykhovanets'
+	http://dspace.nbuv.gov.ua/handle/123456789/37765
+	http://dspace.nbuv.gov.ua/bitstream/handle/123456789/37765/14-Horodenska.pdf?sequence=2
+
+	Workshops at EMNLP 2020
+	https://2020.emnlp.org/workshops
+
+	DIGITAL HUMANITIES HEIDELBERG
+		PROJECTS – SERVICE – EVENTS
+	https://digital-humanities.uni-heidelberg.de/home/en/#
+
+
+	The Conversation
+		Search analysis, research, academics…
+		Ingrid Sharp
+	https://theconversation.com/profiles/ingrid-sharp-125811
+
+
+	https://www.sail-labs.com/solutions-and-features/
+	https://www.sail-labs.com/news-and-research/
+
+
+	John McCrae
+	I am a lecturer above-the-bar at the Insight Centre for Data Analytics at the National University of Ireland Galway
+		https://dsi.nuigalway.ie/people/25cb2c4c1429e8dff2bdaa3a11fb8a5666d3872c
+
+
+	Lviv Machine Learning Workshop
+		Deep Learning and Reinforcement Learning
+		29 February 2020, Lviv, Ukraine
+		@Ukrainian Catholic University
+		https://workshops.eeml.eu/lmlw?fbclid=IwAR1lX0HxLrLaOUGvtR6fdytkJ_bNl78QULsWd7Hzllayi-aZ-oX-Ayz3ERw
+
+	RWS Moravia
+		https://www.rws.com/de/unsere-teams/rws-moravia/#
+
+
+
+	The 3rd Workshop on Technologies for MT of
+		Low Resource Languages (LoResMT 2020)
+		AACL-IJCNLP, China, December 4–7, 2020
+		https://sites.google.com/view/loresmt/
+		@ AACL-IJCNLP 2020 (http://aacl2020.org/)
+		https://sites.google.com/view/loresmt/
+
+
+
+Argumentation
+
+	Robust argumentation machines
+	Schwerpunktprogramm „Robust Argumentation Machines (RATIO)“ (SPP 1999)
+		https://www.dfg.de/foerderung/info_wissenschaft/2020/info_wissenschaft_20_07/
+
+
+	ARGSTRENGTH2020
+		THE THIRD WORKSHOP ON ARGUMENT STRENGTH
+		http://argstrength2020.argumentationcompetition.org/index.html
+
+
+
+
+	Relevance in argumentation - book
+		http://library.lol/main/62DA18D5F1813A6664A6A83649FFF994
+		file:///Users/bogdan/Downloads/Douglas%20Walton%20-%20Relevance%20in%20Argumentation-Routledge%20(2003).pdf
+
+	Makrostrukturen der Argumentation im Deutschen, Französischen und Italienischen
+		Front Cover
+		Vahram Atayan
+			https://books.google.de/books/about/Makrostrukturen_der_Argumentation_im_Deu.html?id=PsRuBAAACAAJ&redir_esc=y
+
+
+	VIANA: Visual Interactive Annotation of Argumentation
+		Fabian Sperrle, Rita Sevastjanova, Rebecca Kehlbeck, Mennatallah El-Assady
+		https://arxiv.org/abs/1907.12413
+		https://arxiv.org/pdf/1907.12413.pdf
+
+	https://www.google.com/search?biw=2094&bih=1078&sxsrf=ALeKk000Qy0r3uBw65js7YOXTgzcKPvs1A%3A1599128903376&ei=R8VQX7m2FoG-kwX_sJvQCA&q=%22only+slowly+decreasing%22+site%3A.uk&oq=%22only+slowly+decreasing%22+site%3A.uk&gs_lcp=CgZwc3ktYWIQAzoHCCMQrgIQJzoICCEQFhAdEB46BQghEKABUKGCAViYrwFg0rQBaANwAHgAgAG6AYgBxg2SAQQyLjExmAEAoAEBqgEHZ3dzLXdpesABAQ&sclient=psy-ab&ved=0ahUKEwj59fCx48zrAhUB36QKHX_YBooQ4dUDCA0&uact=5
+
+	https://www.google.com/search?q=slowly+site:bbc.com&sxsrf=ALeKk03eS5yi4KO9I0D2V-ryNkkCFLdUuA:1599129867697&ei=C8lQX-GHKtL3kwWjk4PoAg&start=40&sa=N&ved=2ahUKEwihudr95szrAhXS-6QKHaPJAC04HhDy0wN6BAgMEDQ&biw=1885&bih=971
+
+	https://www.google.com/search?q=slowly+site:bbc.com&sxsrf=ALeKk00tn25bs10-NAkkTnEQ9_e8PvIR4g:1599129828217&ei=5MhQX5nmDIiysAeP4pGoDQ&start=30&sa=N&ved=2ahUKEwiZ6PDq5szrAhUIGewKHQ9xBNU4FBDy0wN6BAgMEDI&biw=1885&bih=971
+
+	https://www.google.com/search?q=slowly+site:bbc.com&sxsrf=ALeKk02DH2Z0_vY-jHibHOwhjISOvADbIA:1599129788550&ei=vMhQX6OIIYrpsAew_pq4Bw&start=20&sa=N&ved=2ahUKEwij1vvX5szrAhWKNOwKHTC_Bnc4ChDy0wN6BAgMEDA&biw=1885&bih=971&dpr=2
+
+	https://www.google.com/search?sxsrf=ALeKk019ytGVp-m2aqvmJx6-Gf7fHofNKw%3A1599129616763&ei=EMhQX8-WLvac1fAP78GVkAk&q=slowly+site%3Abbc.com&oq=slowly+site%3Abbc.com&gs_lcp=CgZwc3ktYWIQAzoECCMQJzoFCAAQkQI6CAguEMcBEKMCOgIIADoECAAQQzoHCAAQFBCHAjoCCC46BggAEBYQHlDjNFj_bWCRcmgAcAF4AIABowGIAbcRkgEENi4xM5gBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab&ved=0ahUKEwjP3oaG5szrAhV2ThUIHe9gBZIQ4dUDCA0&uact=5
+
+	https://www.bbc.co.uk/bitesize/guides/zc9q7ty/revision/8
+
+	https://www.bbc.co.uk/bitesize/guides/z37t4j6/test
+
+	https://www.bbc.com/news/uk-scotland-scotland-business-43061928
+
+	https://translate.google.com/#view=home&op=translate&sl=fr&tl=en&text=Le%20nombre%20d'infections%20ne%20diminue%20que%20lentement%2C%20nous%20devons%20donc%20rester%20vigilants.
+
+	Le nombre d'infections ne diminue que lentement, nous devons donc rester vigilants.
+	--> The number of infections is only slowly decreasing, so we must remain vigilant.
+	--> Die Anzahl der Infektionen nimmt nur langsam ab, daher müssen wir wachsam bleiben.
+
+	Le nombre d'infections ne diminue qulentement, nous devons donc rester vigilants.
+		--> Die Anzahl der Infektionen nimmt nur langsam ab, daher müssen wir wachsam bleiben.
+		-->
+
+	Le nombre d'infections ne diminue lentement, nous devons donc rester vigilants.
+		--> Die Anzahl der Infektionen nimmt langsam ab, daher müssen wir wachsam bleiben.
+
+	Le nombre d'infections nediminue lentement, nous devons donc rester vigilants.
+		--> Die Anzahl der Infektionen nimmt langsam ab, daher müssen wir wachsam bleiben.
+
+
+	https://translate.google.com/#view=home&op=translate&sl=en&tl=de&text=The%20percentages%20are%20increasing%20slowly%20and%20continually%20in%20the%20earth%2C%20in%20feedingstuffs%20and%20in%20food.%0A%0AFurthermore%2C%20things%20moved%20slowly%20when%20it%20came%20to%20using%20the%20Internet.%0A%0ABad%20habits%20of%20course%20move%20fast%20and%20good%20practice%20moves%20more%20slowly%20afterwards.
+
+	The percentages are increasing slowly and continually in the earth, in feedingstuffs and in food.
+
+	Furthermore, things moved slowly when it came to using the Internet.
+
+	Bad habits of course move fast and good practice moves more slowly afterwards.
+
+		-->
+		Die Prozentsätze in der Erde, in Futtermitteln und in Nahrungsmitteln nehmen langsam und kontinuierlich zu.
+
+		Darüber hinaus ging es bei der Nutzung des Internets nur langsam voran.
+
+		Schlechte Gewohnheiten bewegen sich natürlich schnell und gute Praktiken bewegen sich danach langsamer.
+
+
+	The percentages are increasing slowly and continually in the earth, in feedingstuffs and in food.
+
+	Furthermore, things moved slowly when it came to using the Internet.
+
+	Bad habits of course move fast and good practice moves more slowly afterwards.
+
+		-->
+		Die Prozentsätze in der Erde, in Futtermitteln und in Nahrungsmitteln nehmen langsam und kontinuierlich zu.
+
+		Darüber hinaus ging es bei der Nutzung des Internets nur langsam voran.
+
+		Schlechte Gewohnheiten bewegen sich natürlich schnell und gute Praktiken bewegen sich danach langsamer.
+
+
+	The percentages are increasing slowly and continually in the earth, in feedingstuffs and in food.
+
+	Furthermore, things moved slowly when it came to using the Internet.
+		-->
+		Die Prozentsätze in der Erde, in Futtermitteln und in Nahrungsmitteln nehmen langsam und kontinuierlich zu.
+
+		Darüber hinaus ging es bei der Nutzung des Internets nur langsam voran.
+
+		-->
+		Le percentuali stanno aumentando lentamente e continuamente nella terra, nei mangimi e negli alimenti.
+
+		Inoltre, le cose si sono mosse lentamente quando si è trattato di utilizzare Internet.
+
+
+
+	Исследователи нашли доказательства того, что пандемия распространяется медленнее в странах с высокими температурами в марте, чем в более холодных регионах. Напротив, абсолютная влажность оказывала минимальное влияние.
+
+	Исследователи не нашли никаких доказательств того, что пандемия распространялась медленнее в странах с высокими температурами в марте, чем в более холодных регионах. Напротив, абсолютная влажность оказывала минимальное влияние.
+
+	Исследователи не нашли никаких доказательств того, что пандемия распространялась медленнее в странах с высокими температурами в марте, чем в более холодных регионах. Однако абсолютная влажность оказывала минимальное влияние.
+
+	Исследователи не нашли никаких доказательств того, что пандемия распространялась медленнее в странах с высокими температурами в марте, чем в более холодных регионах. Однако абсолютная влажность оказывала минимальное влияние
+
+
+	14. Количество зараженных людей медленно падает.
+	15. Количество зараженных людей снижается медленно.
+
+
+		--> The researchers found evidence that the pandemic is spreading more slowly in countries with high temperatures in March than in colder regions. In contrast, absolute humidity had a minimal effect.
+
+		The researchers did not find any evidence that the pandemic spread more slowly in countries with high temperatures in March than in colder regions. In contrast, absolute humidity had a minimal effect.
+
+		The researchers found no evidence that the pandemic spread more slowly in countries with high temperatures in March than in colder regions. However, absolute humidity had a minimal effect.
+
+		The researchers found no evidence that the pandemic spread more slowly in countries with high temperatures in March than in colder regions. However, absolute humidity had minimal impact
+
+
+		14. The number of infected people is slowly falling.
+		15. The number of infected people is declining slowly.
+
+
+	The researchers found evidence that the pandemic spread more slowly in countries with high March temperatures than in cooler regions. In contrast, the absolute humidity seemed to have a minimal impact.
+
+	The researchers found no evidence that the pandemic spread more slowly in countries with high March temperatures than in cooler regions. In contrast, the absolute humidity seemed to have a minimal impact.
+
+	The researchers found no evidence that the pandemic spread more slowly in countries with high March temperatures than in cooler regions. The absolute humidity, however, seemed to have a minimal impact.
+
+	The researchers found no evidence that the pandemic spread more slowly in countries with high March temperatures than in cooler regions. The absolute humidity, however, seemed to have a minimal impact
+
+
+	14. The number of infected people is slowly falling.
+	15. The number of infected people is falling slowly.
+		--> Дослідники знайшли докази того, що пандемія поширюється повільніше в країнах з високими температурами в березні, ніж у прохолодних регіонах. Навпаки, абсолютна вологість, здавалося, мала мінімальний вплив.
+
+		Дослідники не виявили доказів того, що пандемія поширюється повільніше в країнах з високими температурами в березні, ніж у прохолодних регіонах. На відміну від цього, абсолютна вологість, здавалося, мала мінімальний вплив.
+
+		Дослідники не виявили доказів того, що пандемія поширюється повільніше в країнах з високими температурами в березні, ніж у прохолодних регіонах. Однак абсолютна вологість, здавалося, мала мінімальний вплив.
+
+		Дослідники не виявили доказів того, що пандемія поширюється повільніше в країнах з високими температурами в березні, ніж у прохолодних регіонах. Однак абсолютна вологість, здавалося, мала мінімальний вплив
+
+
+		14. Кількість заражених людей повільно падає.
+		15. Кількість заражених людей повільно падає.
+
+
+		Die Forscher fanden Hinweise darauf, dass sich die Pandemie in Ländern mit hohen März-Temperaturen langsamer ausbreitete als in kühleren Regionen. Im Gegensatz dazu schien die absolute Luftfeuchtigkeit einen minimalen Einfluss zu haben.
+
+		Die Forscher fanden keine Hinweise darauf, dass sich die Pandemie in Ländern mit hohen März-Temperaturen langsamer ausbreitete als in kühleren Regionen. Im Gegensatz dazu schien die absolute Luftfeuchtigkeit einen minimalen Einfluss zu haben.
+
+		Die Forscher fanden keine Hinweise darauf, dass sich die Pandemie in Ländern mit hohen März-Temperaturen langsamer ausbreitete als in kühleren Regionen. Die absolute Luftfeuchtigkeit schien jedoch nur minimale Auswirkungen zu haben.
+
+		Die Forscher fanden keine Hinweise darauf, dass sich die Pandemie in Ländern mit hohen März-Temperaturen langsamer ausbreitete als in kühleren Regionen. Die absolute Luftfeuchtigkeit schien jedoch nur minimale Auswirkungen zu haben
+
+
+		14. Die Zahl der Infizierten sinkt langsam.
+		15. Die Zahl der Infizierten sinkt langsam.
+
+
+	Die Forscher fanden Hinweise darauf, dass sich die Pandemie in Ländern mit hohen März-Temperaturen langsamer ausbreitete als in kühleren Regionen. Dagegen schien die absolute Luftfeuchtigkeit einen minimalen Einfluss zu haben.
+
+	Die Forscher fanden keinen Hinweis darauf, dass sich die Pandemie in Ländern mit hohen März-Temperaturen langsamer ausbreitete als in kühleren Regionen. Dagegen schien die absolute Luftfeuchtigkeit einen minimalen Einfluss zu haben.
+
+	Die Forscher fanden keinen Hinweis darauf, dass sich die Pandemie in Ländern mit hohen März-Temperaturen langsamer ausbreitete als in kühleren Regionen. Die absolute Luftfeuchtigkeit schien dagegen einen minimalen Einfluss zu haben.
+
+	The researchers found no evidence that the pandemic spread more slowly in countries with high March temperatures than in cooler regions. The absolute humidity, however, seemed to have a minimal impact
+
+
+	14.	The number of infected people is slowly falling.
+	15.	The number of infected people is falling slowly.
+		-->
+		The researchers found evidence that the pandemic spread more slowly in countries with high March temperatures than in cooler regions. In contrast, the absolute humidity seemed to have a minimal influence.
+
+		The researchers found no evidence that the pandemic spread more slowly in countries with high March temperatures than in cooler regions. In contrast, the absolute humidity seemed to have a minimal influence.
+
+		The researchers found no evidence that the pandemic spread more slowly in countries with high March temperatures than in cooler regions. The absolute humidity, on the other hand, seemed to have a minimal influence.
+
+		The researchers found no evidence that the pandemic spread more slowly in countries with high March temperatures than in cooler regions. The absolute humidity, however, seemed to have a minimal impact
+
+
+		14. The number of infected people is slowly falling.
+		15. The number of infected people is falling slowly.
+
+
+	i.	Cette position, très diplomatique, semble prendre pour un fait acquis, la volte-face du gouvernement israélien par rapport aux résolutions sur le processus de paix auxquelles il a pourtant lui-même souscrit.
+		-->
+
+		i.	Cette position, très diplomatique, semble prendre pour un fait acquis, la volte-face du gouvernement israélien par rapport aux résolutions sur le processus de paix auxquelles il a pourtant lui-même souscrit.
+		210/5000
+
+	i.	Cette position, très diplomatique, semble prendre pour un fait acquis, la volte-face du gouvernement israélien par rapport aux résolutions sur le processus de paix auxquelles il a pourtant lui-même souscrit.
+	-->
+		i. This highly diplomatic position seems to take for granted the Israeli government's about-face with respect to the resolutions on the peace process to which it itself has nevertheless subscribed.
+
+	Corpora
+
+	https://www.google.com/search?q=popular+science+for+kids&oq=popular+science+for+kids&aqs=chrome..69i57.12528j0j7&sourceid=chrome&ie=UTF-8
+	https://www.freechildrenstories.com/king-michael
+	https://www.freechildrenstories.com/age-8-10-1
+	https://www.freechildrenstories.com/
+	https://www.google.com/search?q=children%27s+stories&oq=children%27s+stories&aqs=chrome..69i57.10878j0j4&sourceid=chrome&ie=UTF-8
+	https://www.bbc.co.uk/iplayer/episode/b08bzzns/numberblocks-series-1-one
+	https://www.bbc.co.uk/tv/cbeebies
+
+
+
+
+
+Linguistic theory
+	Is German more nominal than English? Evidence from a translation corpus
+		Neumann, Stella*
+		In
+		New approaches to contrastive linguistics : empirical and methodological challenges / edited by Renata Enghels, Bart Defrancq, Marlies Jansegers, Seiten/Artikel-Nr: 127-158
+		https://publications.rwth-aachen.de/record/801620
+
+
+
+	Вихованець І.
+		Дієслівно-іменниковий граматичний тип української мови / І. Вихованець // Українська мова. - 2012. - № 2. - С. 3-10. - Режим доступу: http://nbuv.gov.ua/UJRN/Ukrm_2012_2_3
+
+		http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?I21DBN=LINK&P21DBN=UJRN&Z21ID=&S21REF=10&S21CNR=20&S21STN=1&S21FMT=ASP_meta&C21COM=S&2_S21P03=FILA=&2_S21STR=Ukrm_2012_2_3
+		http://irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?C21COM=2&I21DBN=UJRN&P21DBN=UJRN&IMAGE_FILE_DOWNLOAD=1&Image_file_name=PDF/Ukrm_2012_2_3.pdf
+
+
+	Meaning theory
+	Meaning text theory
+	http://libgen.rs/search.php?&req=Meaning+theory&phrase=1&view=simple&column=def&sort=year&sortmode=DESC
+
+
+	Future of translation technologies
+		https://www.routledge.com/Routledge-Studies-in-Translation-Technology/book-series/RSITT
+
+
+	Title: The human factor in machine translation
+		Author(s): Chan, Sin-wai
+		Publisher: Routledge, Taylor & Francis Group
+		https://libgen.lc/ads.php?md5=D852841F26F14AFEEAD46475FC1CB7A8
+
+
+	How Do Neural Networks Learn? 🤖
+		https://www.youtube.com/watch?v=N6wn8zMRlVE
+		Two Minute Papers
+
+
+	Linguistically inspired morphological inflection with a sequence to
+		sequence model
+		Eleni Metheniti* † Gunter Neumann ¨ ‡
+		*CLLE-CNRS, †IRIT-CNRS , ‡DFKI
+		eleni.metheniti@univ-tlse2.fr
+		Josef van Genabith
+		https://arxiv.org/pdf/2009.02073.pdf
+		https://arxiv.org/abs/2009.02073
+
+
+	An Introduction to Statistical Learning
+		with Applications in R
+		Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+		Still Free: One of the Best Machine and Statistical Learning Books Ever
+		https://trevorhastie.github.io/ISLR/
+		https://trevorhastie.github.io/ISLR/ISLR%20Seventh%20Printing.pdf
+
+
+	Restrictive and Nonrestrictive Clauses—What’s the Difference?
+      https://www.grammarly.com/blog/using-that-and-which-is-all-about-restrictive-and-non-restrictive-clauses/
+
+
+    Н.М. Костусяк, О.Г. Межов
+		Східноєвропейський національний університет
+		імені Лесі Українки, м. Луцьк
+		СИСТЕМНО-СТРУКТУРНА ОРГАНІЗАЦІЯ
+		МОРФОЛОГІЧНОГО РІВНЯ СУЧАСНОЇ
+		УКРАЇНСЬКОЇ ЛІТЕРАТУРНОЇ МОВИ:
+		ФУНКЦІЙНО-КАТЕГОРІЙНИЙ ВИМІР
+		Рецензія на: І.Р. Вихованець, К.Г. Городенська,
+		А.П. Загнітко, С.О. Соколова. Граматика сучасної
+		української літературної мови. Морфологія. Київ,
+		2017
+      	https://iul-nasu.org.ua/pdf/ukrmova/4_19/15.pdf
+
+
+
+    Lexicogrammar and the brain, in theory and in practice
+	Jennifer Hughes and Andrew Hardie Lancaster University
+		https://www.edgehill.ac.uk/englishhistorycreativewriting/files/2019/05/LxGr2019.HughesHardie.Abstract.pdf
+
+
+	https://www.journals.elsevier.com/applied-corpus-linguistics
+
+
+
+
+
+
+
+
+
+Tools
+	https://nlp.stanford.edu/software/spanish-faq.html
+	https://nlp.stanford.edu/software/lex-parser.shtml
+	Software > CoreNLP Spanish FAQ
+	Software > Stanford Parser
+
+
+	CWB
+	http://cwb.sourceforge.net/files/CWB_Encoding_Tutorial/node3.html
+
+	ASR
+		https://www.linuxlinks.com/best-free-linux-speech-recognition-tools-open-source-software/
+		https://www.google.com/search?q=linux+free+ASR&oq=linux+free+ASR&aqs=chrome..69i57.11350j0j7&sourceid=chrome&ie=UTF-8
+		"linux free ASR"
+		10 Best Free Linux Speech Recognition Tools – Open Source Software
+
+
+	Python parallel
+		https://stackoverflow.com/questions/20548628/how-to-do-parallel-programming-in-python
+
+		Laziness in Python - Computerphile
+		https://www.youtube.com/watch?v=5jwV3zxXc8E
+
+
+	Capsule networks
+	How to implement CapsNets using TensorFlow
+		41,870 views•30 Nov 2017
+		https://www.youtube.com/watch?v=2Kawrd5szHE
+
+
+	PyTorch vs TensorFlow: The Force Is Strong With Which One? | Which One You Should Learn? | Edureka
+		https://www.youtube.com/watch?v=Mn1AACvK-YI
+
+	Statistics calculus Python
+		https://subscription.packtpub.com/book/data/9781800209763
+		https://www.packtpub.com/product/the-statistics-and-calculus-with-python-workshop/9781800209763
+
+
+	Hands-On Mathematics for Deep Learning
+		https://www.packtpub.com/product/hands-on-mathematics-for-deep-learning/9781838647292
+		https://subscription.packtpub.com/book/programming/9781838647292
+
+
+	https://www.google.com/search?q=alignment+voice+to+transcription&oq=alignment+voice+to+transcription&aqs=chrome..69i57.13261j0j7&sourceid=chrome&ie=UTF-8
+	-->
+	Alignment of transcription and speech signals
+	https://www.clarin-d.net/en/analysing/alignment-of-transcription-and-speech-signals
+
+
+
+
+
+	https://www.google.com/search?ei=rZ0eX7voGYmvkwXcgrSIBA&q=opennmt-py&oq=open+NMT+%22Building+%26+saving+validation+data...%22&gs_lcp=CgZwc3ktYWIQARgAMgQIABBHMgQIABBHMgQIABBHMgQIABBHMgQIABBHMgQIABBHMgQIABBHUABYAGD6TmgAcAJ4AIABAIgBAJIBAJgBAKoBB2d3cy13aXrAAQE&sclient=psy-ab
+
+
+	"open NMT "Building & saving validation data...""
+	"pytorch RuntimeError: error executing torch_shm_manager"
+	RuntimeError: error executing torch_shm_manager #2125
+	https://github.com/pytorch/pytorch/issues/2125
+
+	https://github.com/OpenNMT/OpenNMT-py/issues/989
+
+
+
+	OpenNMT
+	https://opennmt.net/OpenNMT-py/main.html#citation
+	https://opennmt.net/OpenNMT-py/main.html
+	https://opennmt.net/OpenNMT-py/quickstart.html
+	https://opennmt.net/OpenNMT-py/CONTRIBUTING.html
+	https://opennmt.net/OpenNMT-py/main.html
+	https://opennmt.net/OpenNMT-py/
+
+
+
+	https://www.google.com/search?q=nmt+training+windows&oq=nmt+training+windows&aqs=chrome..69i57.4248j0j4&sourceid=chrome&ie=UTF-8
+	nmt training windows < google search
+
+	MARIANNMT
+	FAST NEURAL MACHINE TRANSLATION IN C++
+		https://marian-nmt.github.io/faq
+
+
+	Propositional Dynamic Logic
+		First published Thu Feb 1, 2007; substantive revision Fri Jan 25, 2019
+		https://plato.stanford.edu/entries/logic-dynamic/
+		https://plato.stanford.edu/entries/logic-dynamic/#HoaCal
+
+		3rd DaLí Workshop
+		Dynamic Logic: New Trends and Applications
+			http://www.cs.cas.cz/dali2020/
+
+
+
+	Pierre Zweigenbaum (LIMSI-CNRS)
+	Clinical Natural Language Processing in 2015: Leveraging the Variety of Texts of Clinical Interest
+		A Névéol 1, P Zweigenbaum 2
+		Affiliations expand
+		PMID: 27830256 PMCID: PMC5171575 DOI: 10.15265/IY-2016-049
+		Free PMC article
+		https://pubmed.ncbi.nlm.nih.gov/27830256/
+
+
+	Construction grammar book
+	https://www.amazon.de/gp/huc/view.html?ie=UTF8&newItems=C03f1bf25-453a-4a5d-8312-ee5bca3f1e14%2C1
+	https://blackwells.co.uk/bookshop/product/The-Oxford-Handbook-of-Construction-Grammar-by-Thomas-Hoffmann-editor-Graeme-Trousdale-editor/9780190463212
+
+
+
+Europarl
+	http://opus.nlpl.eu/Europarl.php
+
+
+EMEA corpus:
+	http://opus.nlpl.eu/EMEA.php
+
+Multilingual Glossary of technical and popular medical terms in nine European Languages
+	https://users.ugent.be/~rvdstich/eugloss/welcome.html
+
+JRC-Acquis
+	https://ec.europa.eu/jrc/en/language-technologies/jrc-acquis
+	https://ec.europa.eu/jrc/en/language-technologies
+	https://wt-public.emm4u.eu/Acquis/JRC-Acquis.3.0/alignmentsHunAlign/index.html
+	https://wt-public.emm4u.eu/Acquis/JRC-Acquis.3.0/corpus/
+	https://wt-public.emm4u.eu/Acquis/JRC-Acquis.3.0/alignments/index.html
+
+	https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory
+
+
+	https://ec.europa.eu/jrc/en/language-technologies/dgt-translation-memory
+
+
+
+Annotation tools
+	https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0001-48F9-4
+	http://ufal.mff.cuni.cz/pdt/Morphology_and_Tagging/Tagging/MM_tagger/index.html
+	https://nlp.stanford.edu/software/lex-parser.shtml
+	https://nlp.fi.muni.cz/en/AdvancedNlpCourse/ParsingCzech
+
+
+EU law
+	https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&from=EN
+
+
+BSNLP
+	http://bsnlp.cs.helsinki.fi/call-for-papers.html
+	http://bsnlp.cs.helsinki.fi/dates.html
+	http://bsnlp.cs.helsinki.fi/shared-task.html
+	http://bsnlp.cs.helsinki.fi/index.html
+	http://bsnlp.cs.helsinki.fi/
+
+correctness vs. understandability criteria:
+	>> what it means to be 'understandable'
