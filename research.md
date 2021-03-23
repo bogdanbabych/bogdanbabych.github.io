@@ -11,6 +11,9 @@ nav_order: 2
 
 [Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](/de_index.html) [![Image](uk_l_flag.png)](/uk_index.html)
 
+### Recent CV
+[CV Bogdan Babych, 2021](./babych-b--2021-03-cv-and-publications.pdf)
+
 ### Current research projects and publications
 
 #### Induction of resources for low-resourced languages
