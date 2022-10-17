@@ -1,3 +1,13 @@
+<a name="atayan2022translating"></a>
+@article{atayan2022translating,
+  title={Translating Argumentation: Distributional Semantic Analysis of Argumentation Resources in Parallel Corpora},
+  author={Atayan, Vahram and Babych, Bogdan},
+  journal={The Prague Bulletin of Mathematical Linguistics},
+  number={119},
+  pages={23--36},
+  year={2022}
+}
+
 <a name="bsnlp2021stIntroPaperPiskorskiEtAl"></a>
 @inproceedings{bsnlp2021stIntroPaperPiskorskiEtAl,
 	author={Jakub Piskorski and Bogdan Babych and Zara Kancheva and Olga Kanishcheva and Maria Lebedeva and Michał Marcińczuk and Preslav Nakov and Petya Osenova and Lidia Pivovarova and Senja Pollak and Pavel Přibáň and Ivaylo Radev and Marko Robnik-Šikonja and Vasyl Starko and Josef Steinberger and Roman Yangarber },
