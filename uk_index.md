@@ -5,7 +5,7 @@ nav_order: 11
 ---
 
 ## Проф. д-р. Богдан Бабич
-### Професор перекладознавства, голова Відділення перекладу, комунікації та технології
+### Професор перекладознавства, Відділення перекладу, комунікації та технології
 ### Інститут письмового та усного перекладу, Гайдельберзький університет
 
 [Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](en_l_flag.png)](/index.html) [![Image](de_l_flag.png)](/de_index.html)

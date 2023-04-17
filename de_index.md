@@ -5,7 +5,7 @@ nav_order: 10
 ---
 
 ## Prof. Dr. Bogdan Babych
-### Professor für Translationswissenschaft, Leiter der Abteilung für Translation, Kommunikation und Technologie
+### Professor für Translationswissenschaft, Abteilung für Translation, Kommunikation und Technologie
 ### Institut für Übersetzen und Dolmetschen, Universität Heidelberg
 
 [Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](en_l_flag.png)](/index.html) [![Image](uk_l_flag.png)](/uk_index.html)
