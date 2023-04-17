@@ -6,7 +6,7 @@ nav_order: 31
 
 ## Prof. Dr. Bogdan Babych
 ### Professor of Translation Studies, Head of Department of Translation, Communication and Technology
-### Institute for Translation and Interpreting, Heidelberg University
+### Institute for Translation and Interpreting, Universität Heidelberg
 
 [Home](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Collaboration](collaboration.md) | [Techologies](techlabs.md) | [![Image](de_l_flag.png)](/de_index.html) [![Image](uk_l_flag.png)](/uk_index.html)
 
