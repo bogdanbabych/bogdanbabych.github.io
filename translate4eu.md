@@ -9,6 +9,9 @@
   Link to tools:
   - Link to [SketchEngine](https://www.sketchengine.eu/)
   - Link to [github](https://github.com/iued-uni-heidelberg/corpusdev/blob/main/tr4euplus_wget_v01.ipynb) : colab notebook for downloading 4EU+ webstie and extracting plain text from hmtl
+  - Link to term extraction script on [github](https://github.com/iued-uni-heidelberg/corpusdev/blob/main/TerminologyExtraction4EUplus_v05.ipynb)
+
+    
 
 
   
